@@ -1,0 +1,43 @@
+{
+  "user_id": 1,
+  "playlist_id": 72,
+  "source": "youtube",
+  "producer": "wit",
+  "provider": "علي حمدي علي فاضل",
+  "tag_list": "مداخل",
+  "hidden": false,
+  "media": [
+    {
+      "title": "الدورة التعريفية بالعلوم الإنسانية | المحاضرة الأولى - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:49:27",
+      "link": "https://www.youtube.com/watch?v=WG5jbP3k9JQ",
+      "transcript_txt": "WG5jbP3k9JQ.txt",
+      "transcript_srt": "WG5jbP3k9JQ.srt"
+    },
+    {
+      "title": "الدورة التعريفية بالعلوم الإنسانية | المحاضرة الثانية - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "02:04:59",
+      "link": "https://www.youtube.com/watch?v=ZYZUITePFtg",
+      "transcript_txt": "ZYZUITePFtg.txt",
+      "transcript_srt": "ZYZUITePFtg.srt"
+    },
+    {
+      "title": "الدورة التعريفية بالعلوم الإنسانية | المحاضرة الثالثة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:02:34",
+      "link": "https://www.youtube.com/watch?v=V7H6H2KuuN4",
+      "transcript_txt": "V7H6H2KuuN4.txt",
+      "transcript_srt": "V7H6H2KuuN4.srt"
+    },
+    {
+      "title": "الدورة التعريفية بالعلوم الإنسانية | المحاضرة الرابعة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:32:27",
+      "link": "https://www.youtube.com/watch?v=SpVHXsAN4io",
+      "transcript_txt": "SpVHXsAN4io.txt",
+      "transcript_srt": "SpVHXsAN4io.srt"
+    }
+  ]
+}
